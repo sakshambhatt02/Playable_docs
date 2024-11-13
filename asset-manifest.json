@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Playable_docs/static/css/main.43372cf9.css",
+    "main.js": "/Playable_docs/static/js/main.821fd113.js",
+    "static/js/453.cc99270f.chunk.js": "/Playable_docs/static/js/453.cc99270f.chunk.js",
+    "index.html": "/Playable_docs/index.html",
+    "main.43372cf9.css.map": "/Playable_docs/static/css/main.43372cf9.css.map",
+    "main.821fd113.js.map": "/Playable_docs/static/js/main.821fd113.js.map",
+    "453.cc99270f.chunk.js.map": "/Playable_docs/static/js/453.cc99270f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43372cf9.css",
+    "static/js/main.821fd113.js"
+  ]
+}
